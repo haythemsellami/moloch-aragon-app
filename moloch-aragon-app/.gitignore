@@ -6,3 +6,6 @@ ipfs.cmd
 package-lock.json
 coverage.json
 coverage
+
+../node_modules/
+../package-lock.json
